@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'Ooredoo';
-    font-weight: 400;
+    font-weight: 200;
     font-display: swap;
-    src: url('/font/Ooredoo/Ooredoo-Heavy.otf') format('truetype');
+    src: url('./font/Ooredoo/Ooredoo-Heavy.otf') format('truetype');
 }
 
 @font-face {
     font-family: 'NotoSans';
-    font-weight: 400;
+    font-weight: 200;
     font-display: swap;
-    src: url('/font/NotoSans/NotoSans-Regular.ttf') format('truetype');
+    src: url('./font/NotoSans/NotoSans-Regular.ttf') format('truetype');
 }
 
 html,
@@ -51,7 +51,7 @@ body {
     font-family: Ooredoo;
     font-size: 14px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 100;
     line-height: 22px;
     /* 157.143% */
 }
@@ -61,7 +61,7 @@ body {
     font-family: NotoSans;
     font-size: 14px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 100;
     line-height: 0px;
     /* 157.143% */
 }
@@ -152,7 +152,7 @@ body {
     font-family: Ooredoo;
     font-size: 10px;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 100;
     line-height: 16px;
 
     /* 160% */
@@ -179,7 +179,7 @@ body {
     font-family: Ooredoo;
     font-size: 14px;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 100;
     line-height: 24px;
     /* 171.429% */
 }
@@ -195,7 +195,7 @@ body {
     font-family: Ooredoo;
     font-size: 14px;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 100;
     line-height: 16px;
     /* 114.286% */
     margin-left: 12px;
@@ -207,7 +207,7 @@ body {
     font-family: Ooredoo;
     font-size: 14px;
     font-style: normal;
-    font-weight: 900;
+    font-weight: 100;
     line-height: 16px;
     /* 114.286% */
 }
